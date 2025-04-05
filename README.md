@@ -4,7 +4,7 @@
 
 WisTheme is perfect if you like blue and purple colors
 
-- Download [here](wistheme.vsix)
+- Download [here](https://github.com/wisrude/WisTheme/raw/refs/heads/main/wistheme.vsix)
 
 # 🟦 WisTheme 🟪
 
@@ -12,7 +12,7 @@ WisTheme is perfect if you like blue and purple colors
 
 WisTheme es perfecto si a ti te gusta el color azul y morado
 
-- Descargalo [aquí](wistheme.vsix)
+- Descargalo [aquí](https://github.com/wisrude/WisTheme/raw/refs/heads/main/wistheme.vsix)
 
 # 🖼️ PREVIEW
 ![preview](preview.png)
