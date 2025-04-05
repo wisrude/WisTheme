@@ -1,0 +1,22 @@
+{
+  "name": "wistheme",
+  "displayName": "WisTheme",
+  "description": "Love between blue and purple",
+  "publisher": "WisRude",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WisTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wistheme.json"
+      }
+    ]
+  }
+}
